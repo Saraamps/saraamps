@@ -1,4 +1,4 @@
-## Hi there 🍎
+# Hi there 🍎
 ## 🌱 I’m currently learning
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
