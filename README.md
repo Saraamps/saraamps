@@ -1,9 +1,10 @@
 ## Hi there 👋
 - 🌱 I’m currently learning: Datascience and ML
-### 🚀 Languages
+### 🚀 Languages and tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </p>
 
 <!--
